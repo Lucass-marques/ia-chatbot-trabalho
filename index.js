@@ -1,4 +1,4 @@
-const API_KEY = "sk-c041ec42a7bb45efba5ef96bf2e4ed15";
+const API_KEY = sk-c041ec42a7bb45efba5ef96bf2e4ed15
 
 const chat = document.getElementById("chat");
 const input = document.getElementById("userInput");
